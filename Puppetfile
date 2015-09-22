@@ -2,5 +2,5 @@ forge 'http://forge.puppetlabs.com'
 
 mod 'helloworld',
   :git => 'git@github.com:pogopolice/pogo-helloworld.git',
-  :ref => 'fca32d28fe4b684d44d3186bc1bc32ddbd800600'
+  :ref => '69227c2e5955a20bc084237620c947c2bce5cd99'
 
