@@ -1,6 +1,7 @@
 forge 'http://forge.puppetlabs.com'
 
-mod 'helloworld', :latest
-  :git => 'git@github.com:pogopolice/pogo-helloworld.git'
+mod 'helloworld',
+  :git => 'git@github.com:pogopolice/pogo-helloworld.git',
+  :branch => 'development'
 
 mod 'puppetlabs/ntp'
