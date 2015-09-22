@@ -4,4 +4,4 @@ mod 'helloworld',
   :git => 'git@github.com:pogopolice/pogo-helloworld.git',
   :branch => 'development',
 
-mod 'puppetlabs/ntp',
+mod 'puppetlabs/ntp'
