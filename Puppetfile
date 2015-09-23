@@ -5,3 +5,4 @@ mod 'helloworld',
   :branch => 'development'
 
 mod 'puppetlabs/ntp'
+mod 'puppetlabs/apache'
