@@ -6,3 +6,6 @@ mod 'helloworld',
 
 mod 'puppetlabs/ntp'
 mod 'puppetlabs/apache'
+mod 'puppetlabs/firewall'
+mod 'saz/rsyslog'
+mod 'rodjek/logrotate'
